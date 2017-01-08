@@ -2,9 +2,9 @@
 A little bit tweaked [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
 
 ## Diff between Inconsolata
-I. Lower L (`l`) (and related glyphs)
+I. Numeral one (`1`) has serif
 
-II. Numeral one (`1`) has serif
+II. Lower L (`l`) (and related glyphs)
 
 III. Vertical bar is broken bar
 
