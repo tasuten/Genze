@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1472710287
-ModificationTime: 1483876855
+ModificationTime: 1483877151
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -3774,7 +3774,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 57 19 9
+WinInfo: 0 19 9
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-2" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-3" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-4" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-5" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-6" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-7" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-8" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-9" "'mkmk' Mark to Mark in Latin lookup 2 subtable" "Anchor-10" "'mkmk' Mark to Mark in Latin lookup 3 subtable" "Anchor-11" "'mkmk' Mark to Mark in Latin lookup 4 subtable" "Anchor-12" "'mkmk' Mark to Mark in Latin lookup 5 subtable"
 BeginChars: 1056 800
 
@@ -12570,66 +12570,9 @@ Encoding: 352 124 96
 Width: 500
 GlyphClass: 2
 Flags: W
-TtInstrs:
-MPPEM
-PUSHB_1
- 31
-LT
-IF
-NPUSHB
- 12
- 0
- 0
- 0
- 22
- 75
- 2
- 1
- 1
- 1
- 25
- 1
- 76
-ELSE
-NPUSHB
- 12
- 2
- 1
- 1
- 0
- 1
- 132
- 0
- 0
- 0
- 22
- 0
- 76
-EIF
-NPUSHB
- 10
- 0
- 0
- 0
- 3
- 0
- 3
- 17
- 3
- 7
- 21
-CALL
-EndTTInstrs
 LayerCount: 2
 Fore
-SplineSet
-217 -151 m 1,0,-1
- 217 652 l 1,1,-1
- 284 652 l 1,2,-1
- 284 -151 l 1,3,-1
- 217 -151 l 1,0,-1
-EndSplineSet
-Validated: 1
+Refer: 105 166 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: braceright
