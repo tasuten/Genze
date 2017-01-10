@@ -14,7 +14,8 @@ V. Space of `"` is wider
 
 VI. `,` and `.` is bigger
 
-![diff image](diff.png)
+## Screenshot
+![Genze](Genze.png)
 
 ## Why named `Genze`
 **現世** (Genze, \[Gen-Zay\]) is the Japanese word meaning *the world for living people*.
