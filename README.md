@@ -12,6 +12,8 @@ IV. Middle edge of capital `W` is lower place
 
 V. Space of `"` is wider
 
+VI. `,` and `.` is bigger
+
 ![diff image](diff.png)
 
 ## Why named `Genze`
