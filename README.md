@@ -2,15 +2,15 @@
 A little bit tweaked [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
 
 ## Diff between Inconsolata
-I. Numeral one (`1`) has serif
+I. Numeral `1` has serif
 
-II. Lower L (`l`) (and related glyphs)
+II. Lower `l` (and related glyphs)
 
-III. Vertical bar is broken bar
+III. Vertical bar `|` is broken bar
 
-IV. Middle edge of capital W is lower place
+IV. Middle edge of capital `W` is lower place
 
-V. Space of " is wider
+V. Space of `"` is wider
 
 ![diff image](diff.png)
 
