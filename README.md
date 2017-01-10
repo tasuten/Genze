@@ -8,6 +8,8 @@ II. Lower L (`l`) (and related glyphs)
 
 III. Vertical bar is broken bar
 
+IV. Middle edge of capital W is lower place
+
 ![diff image](diff.png)
 
 ## Why named `Genze`
