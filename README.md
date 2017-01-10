@@ -10,6 +10,8 @@ III. Vertical bar is broken bar
 
 IV. Middle edge of capital W is lower place
 
+V. Space of " is wider
+
 ![diff image](diff.png)
 
 ## Why named `Genze`

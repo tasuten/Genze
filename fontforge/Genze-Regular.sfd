@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1472710287
-ModificationTime: 1484057555
+ModificationTime: 1484058242
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -3774,7 +3774,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 19 19 9
+WinInfo: 0 19 9
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-2" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-3" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-4" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-5" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-6" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-7" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-8" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-9" "'mkmk' Mark to Mark in Latin lookup 2 subtable" "Anchor-10" "'mkmk' Mark to Mark in Latin lookup 3 subtable" "Anchor-11" "'mkmk' Mark to Mark in Latin lookup 4 subtable" "Anchor-12" "'mkmk' Mark to Mark in Latin lookup 5 subtable"
 BeginChars: 1056 800
 
@@ -3901,9 +3901,8 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 11 39 N 1 0 0 1 -75 0 0
-Refer: 11 39 N 1 0 0 1 75 0 0
-Validated: 1
+Refer: 11 39 N 1 0 0 1 -91 0 0
+Refer: 11 39 N 1 0 0 1 91 0 0
 Substitution2: "'ss03' Style Set 3 in Latin lookup 27 subtable" quotedbl.ss03
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" quotedbl.ss03
 EndChar
@@ -10773,7 +10772,7 @@ StartChar: l
 Encoding: 336 108 80
 Width: 500
 GlyphClass: 2
-Flags: WO
+Flags: W
 AnchorPoint: "Anchor-8" 480 457 basechar 0
 AnchorPoint: "Anchor-7" 250 229 basechar 0
 AnchorPoint: "Anchor-6" 250 665 basechar 0
